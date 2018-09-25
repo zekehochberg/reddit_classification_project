@@ -4,7 +4,6 @@
 
 #### File Tree
 ```bash
-.
 +-- README.md
 +-- Assets
 |   +-- coefficients.csv
