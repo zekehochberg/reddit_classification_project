@@ -3,7 +3,7 @@
 ### Repo Overview
 
 #### File Tree
-
+```bash
 .
 +-- README.md
 +-- Assets
@@ -19,6 +19,7 @@
 |   +-- reddit_scrape_cleaned.csv
 +-- Requirements
 |   +-- requirements.txt
+```
 ___
 ### Description
 
